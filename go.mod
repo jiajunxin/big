@@ -1,3 +1,3 @@
-module github.com/go/src/math/big
+module github.com/jiajunxin/big
 
 go 1.19
